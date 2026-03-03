@@ -1,1 +1,2 @@
 this is git practice file B
+i have made changes
